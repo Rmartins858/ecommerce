@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/XsdmR2c/1.png",
+      img: "https://cdn.dooca.store/906/products/vestido-viscose-estampado-rosa-com-fundo-branco.jpg?v=1646403233&webp=0",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
@@ -47,7 +47,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://i.pinimg.com/550x/ba/b5/7b/bab57bc9ec5c7f83dc87735dfe8b4409.jpg",
     },
     {
       id:3,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://ae01.alicdn.com/kf/HTB1Z3qgLXXXXXa6apXXq6xXFXXXa/Europeus-e-americanos-estilo-retro-hepburn-vestido-de-fundo-branco-com-pouco-morango-impresso-colarinho-barco.jpg",
     },
     {
       id:8,
